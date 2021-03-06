@@ -35,8 +35,8 @@ function App() {
   let calculo = (megabytes / 1024).toFixed(4);
 
   return <>
-    <Title><h1>Calculadora de MB - GB (Megabytes para Gigabytes)</h1></Title> <br/>
-    <Label><label>Valor em MB: </label></Label><br/>
+    <Title>Calculadora de MB - GB (Megabytes para Gigabytes)</Title> <br/>
+    <Label>Valor em MB:</Label><br/>
     <Input 
       type="number" 
       value={megabytes} 
@@ -47,8 +47,8 @@ function App() {
     
     { megabytes > 0 &&
       <div>
-        <Paragraph><p>Valor em MB: {megabytes} MB</p></Paragraph>
-        <Paragraph><p>Valor em GB: {calculo} GB</p></Paragraph>
+        <Paragraph>Valor em MB: {megabytes} MB</Paragraph>
+        <Paragraph>Valor em GB: {calculo} GB</Paragraph>
       </div>
     }
   </>
