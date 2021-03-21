@@ -58,7 +58,7 @@ Calculadora feita por mim - [Lucbm99](https://github.com/Lucbm99)
 
 
 ## 🎁 Agradecimentos
-* Site feito para estudos, que aprendi muito bem. Obrigado a todos e a Deus pela oportunidade!
+* Calculadora feito para estudos, que aprendi muito bem. Obrigado a todos e a Deus pela oportunidade!
 
 
 ---
