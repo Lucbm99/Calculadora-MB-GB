@@ -46,6 +46,7 @@ Feita a instalação do npm, é necessário digitar o comando npm start, para ab
 ## 📦 Status da aplicação
 
 🚧  Finalizado 🚧
+
 Vídeo demo: https://youtu.be/P5ZneKk96Lw
 
 ## 🛠️ Feito com
